@@ -2,7 +2,7 @@
 
 ## Change Hostname 
 
-    sudo hostname jenkins_server
+    sudo hostname jenkins
 
 
 ##Installing Ansible
